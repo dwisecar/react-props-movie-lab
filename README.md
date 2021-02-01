@@ -3,7 +3,7 @@
 ## Objectives
 
 - Practice passing props from parent components to children
-- Practice using default props
+- Practice using default props 
 - Practice jumping into and improving existing code
 
 ## Introduction
